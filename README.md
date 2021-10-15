@@ -3,7 +3,7 @@
 ### A website to display and sell a client's art
 
 Hi! If you're here from my [portfolio](https://alan-deng.github.io/portfolio-site/), welcome!
-The code cannot be displayed because the client owns it, but I've highlighted some features and added some pictures below.
+This project's code cannot be displayed because the client owns it, but I've highlighted some features and added some pictures below.
 
 -------------------------------
 ### `Website`
