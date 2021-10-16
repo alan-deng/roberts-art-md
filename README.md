@@ -38,4 +38,3 @@ Admin Page
 - Image carousel to display multiple different images per art piece
 - Filter options for the sale page
 - Icon on gallery pages to quickly denote whether a piece is for sale
-- Message to remind people how to turn off the social media blocker in case they forget they have the extension running
